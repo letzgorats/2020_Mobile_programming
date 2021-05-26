@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PersonalProject</string>
+    <string name="website_name">[Botanic Space]</string>
+    <string name="purchase">구매</string>
+    <string name="shopping_basket">장바구니</string>
+    <string name="price">[가격]</string>
+    <string name="item_name">[상품이름]</string>
+    <string name="neo_182">네오182 Scalp 트러블 에센스</string>
+    <string name="mask_form">프로메코 아토풀 마스크 폼팩</string>
+    <string name="ato_full">아토풀 크림(자연유래 + 고보습)</string>
+    <string name="neo_serum">프로메코 네오 491 세럼</string>
+    <string name="soap">프로메코 네오 9 비누 아로마 테라피</string>
+</resources>
