@@ -129,11 +129,11 @@ ListView, AdapterView, ToolBar, Text View, CheckBox, ImageView, ImageButton 등
 
 ## 주요 기능 설명
 - 전체적인 어플리케이션 개발에 있어서 팀원들과 모두 협업을 하였습니다.
-- 주도적으로 구현했던 부분
+- [주도적으로 구현했던 부분]
  > 전체적인 어플의 아이디어를 제공하였고, 전체적인 어플의 Flow와 디자인을 기획하였습니다.
  - MainActivity, SecondActivity, SearchActivity, ThirdActivity, PopupActivity_1, PopupActivity_2, FourtActivity, SixthActivity...
 
-- 많은 기여를 했던 부분
+- [많은 기여를 했던 부분]
  > 그 외 많은 다양한 Class 생성
 - 나머지 부분들은 팀원들이 주도적으로 구현하였고
 세부적인 부분들은 zoom 회의와 직접 만나서 다 같이 협업을 하였습니다.
