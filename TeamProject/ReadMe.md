@@ -148,7 +148,7 @@ ListView, AdapterView, ToolBar, Text View, CheckBox, ImageView, ImageButton 등
   >  - 대화 기능
 
 - 대표적인 기능 중 한 예)
-  ~~~
+  ```java
   // 회원 가입 버튼 클릭 시 이벤트 처리
     Button JoinBtn = (Button) findViewById(R.id.Joinbtn);
       JoinBtn.setOnClickListener(new View.OnClickListener() {
@@ -257,7 +257,8 @@ ListView, AdapterView, ToolBar, Text View, CheckBox, ImageView, ImageButton 등
             }
         });
     }
-~~~
+
+
 
 ## 특히 노력했던 점
  - 전체적으로 어플의 방향성과 구현을 주도했습니다.
@@ -277,9 +278,7 @@ ListView, AdapterView, ToolBar, Text View, CheckBox, ImageView, ImageButton 등
 
 > 1. 어플을 실행하면 나오는 첫번째 페이지
 
-
 ![첫화면](./img/첫화면.jpg)
-
 
 > 2. 회원가입 페이지  <br>
 (모든 입력조건에 대해 오류 처리 완료)
