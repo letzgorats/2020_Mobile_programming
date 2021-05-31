@@ -277,7 +277,9 @@ ListView, AdapterView, ToolBar, Text View, CheckBox, ImageView, ImageButton 등
 
 > 1. 어플을 실행하면 나오는 첫번째 페이지
 
+
 ![첫화면](./img/첫화면.jpg)
+
 
 > 2. 회원가입 페이지  <br>
 (모든 입력조건에 대해 오류 처리 완료)
